@@ -33,5 +33,5 @@ Links
 ---------------------------------
 [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)  (c) Tim Hall, JSON conversion and parsing for VBA, [MIT Licnese](./VBA-JSON-2.3.1/LICENSE)
 
-[Stack Overflow answer for Yahoo API](https://stackoverflow.com/questions/44030983/yahoo-finance-url-not-working/47505102#47505102)
+[Stack Overflow answer about Yahoo API](https://stackoverflow.com/questions/44030983/yahoo-finance-url-not-working/47505102#47505102)
 
